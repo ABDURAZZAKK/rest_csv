@@ -1,3 +1,6 @@
+## Endpoints
+GET http://localhost:8000/api/main
+POST http://localhost:8000/api/main {body: {key: 'file', value: file.csv} }
 ## Первый запуск:
 
 ```bash
